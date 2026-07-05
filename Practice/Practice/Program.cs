@@ -8,6 +8,11 @@ namespace Practice
 {
     internal class Program
     {
+        static void greetBlack() 
+        { 
+            Console.WriteLine("hello black"); 
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("hello everyone");
